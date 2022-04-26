@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as pd 
 
 cells = []  # 確定させたセル
 temp_cells = []  # 確定前のセル
